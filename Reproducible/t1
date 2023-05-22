@@ -1,0 +1,67 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Main>$
+<Module>
+System.Console
+System.Runtime
+WriteLine
+EmbeddedAttribute
+CompilerGeneratedAttribute
+AttributeUsageAttribute
+DebuggableAttribute
+AssemblyTitleAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyConfigurationAttribute
+RefSafetyRulesAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+System.Runtime.Versioning
+App.dll
+Program
+System
+Version
+System.Reflection
+.ctor
+System.Diagnostics
+System.Runtime.CompilerServices
+DebuggingModes
+args
+Microsoft.CodeAnalysis
+AttributeTargets
+Object
+WrapNonExceptionThrows
+.NETCoreApp,Version=v7.0
+FrameworkDisplayName
+.NET 7.0
+Debug
+1.0.0.0
+1.0.0
+AllowMultiple
+Inherited
+RSDSJ
+/Users/ntanis/GitHub/CodeEurope2023-SupplyChain/Reproducible/App/obj/Debug/net7.0/App.pdb
+SHA256
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
